@@ -120,6 +120,8 @@ def convert_base(base,num):
 prod1=start()
 prod=convert_to_bin(prod1)
 print "\n\n\nNumber || orignal base || decimal form || Binary form"
+print "\nMenu \nEnter your choce 1.Add 2.sub 3.multiply 4.devide 5.Binary operations "
+d=int(raw_input("Enter choice  : "))
 display(prod) 
 
 
