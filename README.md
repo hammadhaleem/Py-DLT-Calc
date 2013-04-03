@@ -1,4 +1,4 @@
 Py-DLT-Calc
 ===========
 
-Simple Python calculator .. cross base !
+Really Simple Python calculator .. cross base ! .One of first python experiments 
